@@ -13,6 +13,8 @@ Firefox users: Install [Violentmonkey](https://addons.mozilla.org/en-US/firefox/
 ## Future Development
 Id like to convert this userscript to a real chromium extension and publish it into the chrome web store at some point so its easier to use and download. Ive never actually published there before but I imagine that whole process will take some time before its actually available.
 
+I also attempted to replace the loading icon but the replacement wasn't fast enough for my liking so I opted to leave that portion out until I can figure out a way to make it more seamless.
+
 ## Contributing
 I totally welcome people to make pull requests to add their own changes and enhancements!
 

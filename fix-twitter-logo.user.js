@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name          Fix Twitter Logo
+// @match         https://x.com/*
 // @match         https://twitter.com/*
 // @author        Estella - @TarnishedStella
-// @version       1.0.1
+// @version       1.0.2
 // @description   replaces the new, terribly designed twitter logo with the much better bird logo.
 // @namespace     https://github.com/TarnishedStella
 // @grant         none
